@@ -2,7 +2,7 @@ title: West England
 description: Committed to secure you!
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
