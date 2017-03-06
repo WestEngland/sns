@@ -1,6 +1,6 @@
 
 #home-body {
-background-image: url(Views.jpg);
+background-image: url(..\Views.jpg);
 background-size:1400px
 }
 
@@ -14,7 +14,7 @@ background-size:1400px
 .header{
     width:885px;
     height:260px;
-    background-image:url(Tourism-in-pakistan.jpg);
+    background-image:url(..\Tourism-in-pakistan.jpg);
     background-size:900px;
     border:ridge;
     border-bottom:none;
@@ -149,7 +149,7 @@ h3
 
 #northern-body
 {
-    background-image:url(Karakul-Lake.jpg);
+    background-image:url(../Karakul-Lake.jpg);
     background-clip:padding-box;
     background-size:1400px;
     background-attachment:fixed;
@@ -157,7 +157,7 @@ h3
 
 #historical-body
 {
-    background-image:url(Rohtas-Fort.jpg);
+    background-image:url(../Rohtas-Fort.jpg);
     background-clip:padding-box;
     background-size:1400px;
     background-attachment:fixed;
