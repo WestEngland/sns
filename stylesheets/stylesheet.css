@@ -2,13 +2,15 @@
 #home-body {
 background-size:1400px
 }
-
+.central-text-section{
+    margin:10px 30px 10px 45px
+}
 .middle{
 
      width:890px;
      height:690px;
      background: rgba(0, 0, 0, 0.5);
-     margin:0px 350px 0px 350px
+     margin:0px 250px 0px 300px
 }
 .header{
     width:885px;
@@ -36,16 +38,16 @@ h2
 h3
 { 
    padding:0px 0px 0px 5px;
-   font-size:100%;
+   font-size:150%;
 }
 .tabs
 {
-    width:625px;
+    width:585px;
     height:30px;
-    background-color:darkslateblue;
+    background-color:darkblue;
     border:ridge;
     color:white;
-    padding:15px 10px 5px 250px;
+    padding:15px 0px 5px 300px;
     
 }
 .tabs a{
@@ -147,7 +149,7 @@ h3
 
 #northern-body
 {
-    background-image:url(../Karakul-Lake.jpg);
+    background-image:url(Karakul-Lake.jpg);
     background-clip:padding-box;
     background-size:1400px;
     background-attachment:fixed;
@@ -155,9 +157,8 @@ h3
 
 #historical-body
 {
-    background-image:url(../Rohtas-Fort.jpg);
+    background-image:url(Rohtas-Fort.jpg);
     background-clip:padding-box;
     background-size:1400px;
     background-attachment:fixed;
 }
-
